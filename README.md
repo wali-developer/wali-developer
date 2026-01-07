@@ -1,4 +1,4 @@
-# Hi, I’m Wali Ullah — Software Engineer
+# Hi, I’m Wali Ullah — Full Stack Engineer
 
 I build modern, production-ready web applications with **JavaScript**, **React**, **Next.js**, and **Node.js**—focused on clean UI, scalable APIs, and maintainable codebases. I enjoy turning product ideas into reliable, high-performance web experiences, and I actively contribute reusable components and utilities to the developer community.
 
