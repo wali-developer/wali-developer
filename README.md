@@ -1,14 +1,20 @@
 # Hi, I’m Wali Ullah — Full Stack Engineer
 
-I build modern, production-ready web applications with **JavaScript**, **React**, **Next.js**, and **Node.js**—focused on clean UI, scalable APIs, and maintainable codebases. I enjoy turning product ideas into reliable, high-performance web experiences, and I actively contribute reusable components and utilities to the developer community.
+I build modern, production-ready web applications with **JavaScript/TypeScript**, **React**, **Next.js**, and **Node.js**, **React Native** — focused on clean UI, scalable APIs, and maintainable codebases. I enjoy turning product ideas into reliable, high-performance web experiences, and I actively contribute reusable components and utilities to the developer community.
 
 ## What I do
 - **Frontend:** React + Next.js (SPA/SSR, component systems, responsive UI, performance)
-- **Backend:** Node.js + Express (REST APIs, auth, integrations, clean architecture)
+- **Backend:** Node.js + Express + Nest.js (REST APIs, auth, integrations, clean architecture)
+- **AI Integration** Generative AI + Chatbot integrations, Agentic AI 
 - **Delivery mindset:** readable code, sensible abstractions, and production readiness
 
+## High-Lead, Revenue-Generating Portfolios
+- **Seven Century Real Estate LLC (Dubai)** — https://www.sevencentury.com  
+- **Quick Swappers** — https://www.quickswappers.com/  
+- **Jaaidad.com (Real Estate) — Contributed to** — https://jaaidad.com/
+
 ## Now
-- 🔭 **Currently working on:** Full-stack development (React, Next.js, Node.js)
+- 🔭 **Currently working on:** Full-stack development (React, Next.js, Node.js, React Native)
 - 🌱 **Currently learning:** Generative AI, Agentic AI, LLM workflows
 - 👯 **Looking to collaborate on:** Applied AI projects, AI-powered web apps, agents
 - 🤔 **Looking for help with:** Practical patterns for building and shipping AI/agent systems
@@ -20,4 +26,4 @@ I build modern, production-ready web applications with **JavaScript**, **React**
 - **react-stars:** https://github.com/wali-developer/react-stars — star rating component to help teams ship UI faster
 
 ## Core stack
-**JavaScript / TypeScript • React • Next.js • Node.js • Express • MongoDB • REST • Git**
+**JavaScript / TypeScript • React • Next.js • Node.js • Express • Nest.js • MongoDB • PostgreSQL • REST API • Git • AWS • Vercel | Render • Gen AI Integration##
