@@ -1,6 +1,6 @@
 # Hi, I’m Wali Ullah — Full Stack Engineer
 
-I build modern, production-ready web applications with **JavaScript/TypeScript**, **React**, **Next.js**, and **Node.js**, **React Native** — focused on clean UI, scalable APIs, and maintainable codebases. I enjoy turning product ideas into reliable, high-performance web experiences, and I actively contribute reusable components and utilities to the developer community.
+I build modern, production-ready web applications with **JS/TS**, **React**, **Next.js**, and **Node.js**, **React Native** — focused on clean UI, scalable APIs, and maintainable codebases. I enjoy turning product ideas into reliable, high-performance web experiences, and I actively contribute reusable components and utilities to the developer community.
 
 ## What I do
 - **Frontend:** React + Next.js (SPA/SSR, component systems, responsive UI, performance)
