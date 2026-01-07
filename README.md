@@ -10,11 +10,15 @@ I build modern, production-ready web applications with **JS/TS**, **React**, **N
 
 ## High-Lead, Revenue-Generating Portfolios
 - **Seven Century Real Estate LLC (Dubai)** — https://www.sevencentury.com  
-- **Quick Swappers** — https://www.quickswappers.com/  
-- **Jaaidad.com (Real Estate) — Contributed to** — https://jaaidad.com/
+- **Quick Swappers** — https://www.quickswappers.com
+- **Jaaidad.com (Real Estate) — Contributed to** — https://jaaidad.com
+- **Jaaidad Mobile App** - https://play.google.com/store/apps/details?id=com.property.jaaidad&hl=en
+- **Anngle Moving (Saudi Arabia) - Contributed in Frontend** - https://anngl.com
+- **Polysave e-commerce (Saudi Arabia)** - https://polysave.vercel.app
+- **Deknows - Model Headless Development firm** - https://www.deknows.com
 
 ## Now
-- 🔭 **Currently working on:** Full-stack development (React, Next.js, Node.js, React Native)
+- 🔭 **Currently working on:** Enterprise SaaS platforms, Full-stack development (React, Next.js, Node.js, React Native)
 - 🌱 **Currently learning:** Generative AI, Agentic AI, LLM workflows
 - 👯 **Looking to collaborate on:** Applied AI projects, AI-powered web apps, agents
 - 🤔 **Looking for help with:** Practical patterns for building and shipping AI/agent systems
