@@ -9,6 +9,7 @@ I build modern, production-ready web applications with **JS/TS**, **React**, **N
 - **Delivery mindset:** readable code, sensible abstractions, and production readiness
 
 ## High-Lead, Revenue-Generating Portfolios
+- **FyreWay** - http://fyreway.com
 - **Seven Century Real Estate LLC (Dubai)** — https://www.sevencentury.com  
 - **Quick Swappers** — https://www.quickswappers.com
 - **Jaaidad.com (Real Estate) — Contributed to** — https://jaaidad.com
@@ -26,6 +27,8 @@ I build modern, production-ready web applications with **JS/TS**, **React**, **N
 - 📫 **How to reach me:** https://imwaliullah.com/ • https://www.linkedin.com/in/wali-ullah-130ba0188/
 
 ## Community contributions
+- **DevTool House:** https://devtoolhouse.com - A free collection of practical tools for developers, freelancers, students, and small businesses.
+- **DevTool House:** https://optimizerr.vercel.app - Media Optimizer Tool is a comprehensive solution for batch and interactive media optimization.
 - **useValidate Hook:** https://github.com/wali-developer/use-validate-react — lightweight, reusable form validation hook for React  
 - **react-stars:** https://github.com/wali-developer/react-stars — star rating component to help teams ship UI faster
 
