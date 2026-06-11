@@ -28,7 +28,7 @@ I build modern, production-ready web applications with **JS/TS**, **React**, **N
 
 ## Community contributions
 - **DevTool House:** https://devtoolhouse.com - A free collection of practical tools for developers, freelancers, students, and small businesses.
-- **DevTool House:** https://optimizerr.vercel.app - Media Optimizer Tool is a comprehensive solution for batch and interactive media optimization.
+- **Media Optimizer:** https://optimizerr.vercel.app - Media Optimizer Tool is a comprehensive solution for batch and interactive media optimization.
 - **useValidate Hook:** https://github.com/wali-developer/use-validate-react — lightweight, reusable form validation hook for React  
 - **react-stars:** https://github.com/wali-developer/react-stars — star rating component to help teams ship UI faster
 
