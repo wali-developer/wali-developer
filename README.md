@@ -24,7 +24,7 @@ I build modern, production-ready web applications with **JS/TS**, **React**, **N
 - 👯 **Looking to collaborate on:** Applied AI projects, AI-powered web apps, agents
 - 🤔 **Looking for help with:** Practical patterns for building and shipping AI/agent systems
 - 💬 **Ask me about:** React, Node.js, Next.js, React Native, Prompt Engineering
-- 📫 **How to reach me:** https://imwaliullah.com/ • https://www.linkedin.com/in/wali-ullah-130ba0188/
+- 📫 **How to reach me:** https://waliullah.vercel.app • https://www.linkedin.com/in/wali-ullah-130ba0188/
 
 ## Community contributions
 - **DevTool House:** https://devtoolhouse.com - A free collection of practical tools for developers, freelancers, students, and small businesses.
